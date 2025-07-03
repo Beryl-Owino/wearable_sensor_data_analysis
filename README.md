@@ -1,6 +1,6 @@
 # Human Activity Recognition Using Wearable Sensor Data
 
-This project explores human activity patterns using data from wearable sensors (accelerometers and gyroscopes) collected via smartphones. The goal is to analyze and classify six common physical activities—walking, sitting, standing, laying, walking upstairs, and walking downstairs—based on sensor readings, and to generate insights that could be applied to fitness tracking or health monitoring applications.
+This project explores human activity patterns using data from wearable sensors (accelerometers and gyroscopes) collected via smartphones. The goal is to analyze and classify six common physical activities—walking, sitting, standing, lying, walking upstairs, and walking downstairs—based on sensor readings, and to generate insights that could be applied to fitness tracking or health monitoring applications.
 
 ---
 
